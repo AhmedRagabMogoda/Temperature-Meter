@@ -45,4 +45,4 @@ The temperature meter project uses an AVR microcontroller to measure and display
 
 ### Practical Applications
 
-This project demonstrates how to measure environmental parameters such as temperature using an analog sensor and a microcontroller. The ability to display this information on an LCD makes it practical for creating standalone devices like digital thermometers, HVAC controllers, or any embedded system requiring temperature monitoring
+This project demonstrates how to measure environmental parameters such as temperature using an analog sensor and a microcontroller. The ability to display this information on an LCD makes it practical for creating standalone devices like digital thermometers, HVAC controllers, or any embedded system requiring temperature monitoring.
